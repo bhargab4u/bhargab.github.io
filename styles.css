@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.imgbox {
+    display: grid;
+    width: 100%;
+}
+.center-fit {
+    max-width: 100%;
+    margin: auto;
+}
